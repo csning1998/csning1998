@@ -7,11 +7,11 @@ Currently a university student using **KVM/Libvirt** and **Kubernetes** to build
 ### Assets
 
 <div align="center">
-  <img src="./metrics.header.svg" alt="Header" width="75%" />
+  <img src="./metrics.header.svg" alt="Header" width="100%" />
 </div>
 
 <div align="center">
-  <img src="./metrics.languages.svg" alt="Most Used Languages" width="80%" />
+  <img src="./metrics.languages.svg" alt="Most Used Languages" width="100%" />
 </div>
 
 ## Main Skills Stacks
@@ -35,7 +35,3 @@ Currently a university student using **KVM/Libvirt** and **Kubernetes** to build
 </div>
 
 <br />
-
-<div align="center">
-  <img src="./metrics.isocalendar.svg" alt="Contribution Calendar" width="75%" />
-</div>
