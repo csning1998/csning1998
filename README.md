@@ -48,4 +48,8 @@ GitOps delivery via GitLab CI/CD and GitHub Actions.
 
 **TypeScript** for private full-stack applications backed by GCP-provisioned infrastructure.
 
+## Stats
+
+![GitLab Contributor Stats](https://contributors.gitlab.com/users/csning1998/banner.svg)
+
 <br />
